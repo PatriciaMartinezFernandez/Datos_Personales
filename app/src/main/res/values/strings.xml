@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">Datos Personales</string>
+    <string name="txtNombre">Nombre:</string>
+    <string name="txtApellidos">Apellidos:</string>
+    <string name="txtEmail">Email:</string>
+    <string name="txtTelefono">Teléfono:</string>
+    <string name="txtInfoLog">Mostrar información Log</string>
+    <string name="hintNombrePila">Nombre de pila</string>
+    <string name="hintApellidos">Los dos apellidos</string>
+    <string name="hintEmail">Correo electrónico</string>
+    <string name="hintTelefono">Teléfono móvil</string>
+    <string name="downarrow">DownArrow</string>
+    <string name="uparrow">UpArrow</string>
 </resources>
